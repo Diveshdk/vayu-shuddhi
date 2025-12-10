@@ -243,7 +243,7 @@ export function AISettingsView() {
               <div className="space-y-2">
                 <div className="flex justify-between text-sm">
                   <span className="text-slate-400">Date:</span>
-                  <span className="text-white">2024-01-15 14:30</span>
+                  <span className="text-white">2025-09-23 14:30</span>
                 </div>
                 <div className="flex justify-between text-sm">
                   <span className="text-slate-400">Duration:</span>
